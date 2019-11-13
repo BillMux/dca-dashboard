@@ -1,0 +1,9 @@
+.gridTile {
+  background-image: linear-gradient(to bottom right, purple, indigo);
+  color: lightgray;
+  padding: 10px
+}
+
+.gridDetails {
+  padding: 10px
+}

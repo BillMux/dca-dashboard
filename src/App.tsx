@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
-import GridLayout from 'react-grid-layout';
 
-import './App.css';
-import TitlebarGridList from './grid';
+import './style/App.css';
+
+import Dashboard from './dashboard';
 
 
 class App extends Component {
   render() {
     return (
-      <TitlebarGridList />
+      <Dashboard />
     )
   }
 }

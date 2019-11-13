@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "title": "Raygun errors",
+      "value": 12,
+      "units": null,
+      "expected": 20
+    },
+    {
+      "title": "403 errors",
+      "value": 5,
+      "units": null,
+      "expected": 9
+    },
+    {
+      "title": "Video dropouts",
+      "value": 0,
+      "units": null,
+      "expected": 5
+    },
+    {
+      "title": "Dynamics calls",
+      "value": 1111,
+      "units": null,
+      "expected": 5
+    },
+    {
+      "title": "Speed",
+      "value": 120,
+      "units": "kbps",
+      "expected": null
+    },
+    {
+      "title": "Downtime",
+      "value": 25,
+      "units": "minutes",
+      "expected": null
+    },
+    {
+      "title": "Verification fails",
+      "value": 12,
+      "units": null,
+      "expected": null
+    }
+  ]
+}
